@@ -1,2 +1,2 @@
 # flexbox
-https://ryankentflexbox.netlify.app/PostMalone/index.html
+https://ryankentflexbox.netlify.app/index.html
